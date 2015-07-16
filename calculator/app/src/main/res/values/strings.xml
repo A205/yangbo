@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">calculator</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="input">Please input,Memeda!</string>
+    <string name="btn">按一下就没了咯</string>
+    <string-array name="key">
+        <item>@+id/key0</item>
+        <item>@+id/key1</item>
+        <item>@+id/key2</item>
+        <item>@+id/key3</item>
+        <item>@+id/key4</item>
+        <item>@+id/key5</item>
+        <item>@+id/key6</item>
+        <item>@+id/key7</item>
+        <item>@+id/key8</item>
+        <item>@+id/key9</item>
+    </string-array>
+</resources>
